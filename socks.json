@@ -1,0 +1,72 @@
+[
+  {
+    "id": "17",
+    "name": "Pop socks",
+    "price": 11.99,
+    "color": "red",
+    "imageHref": "./assets/images/red/socks/1.png"
+  },
+  {
+    "id": "18",
+    "name": "Pop socks",
+    "price": 11.99,
+    "color": "green",
+    "imageHref": "./assets/images/green/socks/1.png"
+  },
+  {
+    "id": "19",
+    "name": "Pop socks",
+    "price": 11.99,
+    "color": "blue",
+    "imageHref": "./assets/images/blue/socks/1.png"
+  },
+  {
+    "id": "20",
+    "name": "Regular socks",
+    "price": 13.99,
+    "color": "red",
+    "imageHref": "./assets/images/red/socks/2.png"
+  },
+  {
+    "id": "21",
+    "name": "Regular socks",
+    "price": 13.99,
+    "color": "blue",
+    "imageHref": "./assets/images/blue/socks/2.png"
+  },
+  {
+    "id": "22",
+    "name": "Regular socks",
+    "price": 13.99,
+    "color": "yellow",
+    "imageHref": "./assets/images/yellow/socks/2.png"
+  },
+  {
+    "id": "23",
+    "name": "Regular socks",
+    "price": 13.99,
+    "color": "green",
+    "imageHref": "./assets/images/green/socks/2.png"
+  },
+  {
+    "id": "24",
+    "name": "Long socks",
+    "price": 14.99,
+    "color": "red",
+    "imageHref": "./assets/images/red/socks/3.png"
+  },
+  {
+    "id": "25",
+    "name": "Long socks",
+    "price": 14.99,
+    "color": "blue",
+    "imageHref": "./assets/images/blue/socks/3.png"
+  },
+  {
+    "id": "26",
+    "name": "Long socks",
+    "price": 14.99,
+    "color": "green",
+    "imageHref": "./assets/images/green/socks/3.png"
+  }
+]
